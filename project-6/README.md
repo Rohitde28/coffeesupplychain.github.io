@@ -148,6 +148,7 @@ Summary
 > Final cost:          0.10590772 ETH
 ## Development Notes
 
+
 Truffle v5.1.14<br>
 Solidity v0.5.0 (solc-js)<br>
 Node v10.16.0<br>
