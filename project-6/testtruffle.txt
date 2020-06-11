@@ -1,0 +1,30 @@
+dell@Adolf:~/blockchain nanodegree/arcitecture/boiler/project-6$ truffle test
+Using network 'development'.
+
+
+Compiling your contracts...
+===========================
+> Everything is up to date, there is nothing to compile.
+
+ganache-cli accounts used here...
+Contract Owner: accounts[0]  0x6cEC1928A3914A89A81701f895088836F9f5335f
+Farmer: accounts[1]  0x81297b047ea961374Ca57500FC632907Cb402dA7
+Distributor: accounts[2]  0xE179D6B88e02243180069d7cfe542676a36b7b90
+Retailer: accounts[3]  0xB1f841A623DCB0f1c262ab691bd50631a2675cCc
+Consumer: accounts[4]  0xBcE549898B989c74fBF6323c579021226fd9Dcde
+
+
+  ✓ Testing smart contract function harvestItem() that allows a farmer to harvest coffee (638ms)
+  ✓ Testing smart contract function processItem() that allows a farmer to process coffee (195ms)
+  ✓ Testing smart contract function packItem() that allows a farmer to pack coffee (167ms)
+  ✓ Testing smart contract function sellItem() that allows a farmer to sell coffee (183ms)
+  ✓ Testing smart contract function buyItem() that allows a distributor to buy coffee (276ms)
+  ✓ Testing smart contract function shipItem() that allows a distributor to ship coffee (132ms)
+  ✓ Testing smart contract function receiveItem() that allows a retailer to mark coffee received (258ms)
+  ✓ Testing smart contract function purchaseItem() that allows a consumer to purchase coffee (378ms)
+  ✓ Testing smart contract function fetchItemBufferOne() that allows anyone to fetch item details from blockchain (43ms)
+  ✓ Testing smart contract function fetchItemBufferTwo() that allows anyone to fetch item details from blockchain (40ms)
+
+  10 passing (3s)
+
+

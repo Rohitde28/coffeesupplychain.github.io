@@ -1,0 +1,20 @@
+{
+  "name": "supply-chain-E",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "rg <rohitashgoyal0128@gmail.com ('https://gateway.ipfs.io//ipfs/QmSvGeiQH6b5GdDCXm1aQ38Rsv1sD8XuHSCxEE3sLSgyb7')>",
+  "license": "MIT",
+  "devDependencies": {
+    "lite-server": "2.4.0"
+  },
+  "dependencies": {
+    "truffle": "^5.1.14-nodeLTS.0",
+    "truffle-hdwallet-provider": "^1.0.17"
+  }
+}
