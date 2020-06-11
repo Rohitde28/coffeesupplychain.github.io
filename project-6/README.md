@@ -25,12 +25,16 @@ added QmSvGeiQH6b5GdDCXm1aQ38Rsv1sD8XuHSCxEE3sLSgyb7 project-6
  2.41 MiB / 2.41 MiB [=====================================================================] 100.00%dell@Adolf:~/blockchain nanodegree/arcitecture/boiler$ ipfs name publish QmSvGeiQH6b5GdDCXm1aQ38Rsv1sD8XuHSCxEE3sLSgyb7
 Published to Qme7a4a9i2Y5W4i3MeQ5Um5eH6sgJw7DCB1zc7wzF87Fnu: /ipfs/QmSvGeiQH6b5GdDCXm1aQ38Rsv1sD8XuHSCxEE3sLSgyb7
 ```
+## Smart Contract
+SupplyChain Tx hash: [0x6c1f36240fed5e593f4db0e881d27fe55eeaae923b38031a5b1313fdaf0a8113](https://rinkeby.etherscan.io/tx/0x6c1f36240fed5e593f4db0e881d27fe55eeaae923b38031a5b1313fdaf0a8113)<br>
+SupplyChain Contract address: [0x536998e7da5ae3cea03361fb809f236f3a2005f3](https://rinkeby.etherscan.io/address/0x536998e7da5ae3cea03361fb809f236f3a2005f3)<br>
+
 
 ### Full Migrations Output
 Starting migrations...
 ======================
-> Network name:    'development'
-> Network id:      5777
+> Network name:    'rinkeby
+> Network id:      4
 > Block gas limit: 6721975 (0x6691b7)
 
 

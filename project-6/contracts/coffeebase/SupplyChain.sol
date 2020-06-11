@@ -231,6 +231,7 @@ contract SupplyChain is
         processed(_upc)
         // Call modifier to verify caller of this function
         onlyFarmer
+       
     {
         // Update the appropriate fields
         items[_upc].itemState = State.Packed;

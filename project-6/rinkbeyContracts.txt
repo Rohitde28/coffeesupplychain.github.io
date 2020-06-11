@@ -8,8 +8,8 @@ Compiling your contracts...
 
 Starting migrations...
 ======================
-> Network name:    'development'
-> Network id:      5777
+> Network name:    'rinkeby'
+> Network id:      4
 > Block gas limit: 6721975 (0x6691b7)
 
 

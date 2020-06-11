@@ -3,7 +3,7 @@ const HDWallet = require("truffle-hdwallet-provider");
 
 // const fs = require("fs");
 const mnemonic =
-  "debris identify pistol deny tenant finger cross damage expire bounce upset regular";
+  "art museum chest sudden amateur bring proud favorite wide awkward alley riot";
 
 module.exports = {
   networks: {
